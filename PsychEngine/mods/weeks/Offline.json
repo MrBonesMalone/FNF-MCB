@@ -1,0 +1,49 @@
+{
+	"storyName": "Offline Gang",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hard-2-break",
+			"pico",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"subjugation",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"end process",
+			"bf-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Offline"
+}
