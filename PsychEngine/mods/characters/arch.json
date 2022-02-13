@@ -1,117 +1,128 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "arch",
-			"indices": [3]
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "arch",
-			"indices": [4]
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "arch",
-			"indices": [2]
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "arch",
-			"indices": [1]
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "arch",
-			"indices": [0]
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle-loop",
-			"indices": [
-				0
-			],
-			"name": "arch"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT-loop",
 			"indices": [
 				3
 			],
 			"name": "arch"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
 			"fps": 24,
-			"anim": "singLEFT-loop",
+			"anim": "singDOWN",
+			"indices": [
+				4
+			],
+			"name": "arch"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				2
+			],
+			"name": "arch"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
 			"indices": [
 				1
 			],
 			"name": "arch"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
 			"fps": 24,
-			"anim": "singUP-loop",
+			"anim": "idle",
 			"indices": [
-				2
+				0
 			],
 			"name": "arch"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "arch",
+			"indices": [
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "arch",
+			"indices": [
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "arch",
+			"indices": [
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "arch",
+			"indices": [
+				2
+			]
 		}
 	],
 	"no_antialiasing": false,
-	"image": "arch/arch",
+	"image": "characters/arch",
 	"position": [
-		0,0
+		0,
+		0
 	],
 	"healthicon": "arch",
 	"flip_x": false,

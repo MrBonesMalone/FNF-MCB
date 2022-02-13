@@ -3,14 +3,18 @@
 	"difficulties": "Easy, Normal, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"hard-2-break",
@@ -32,18 +36,14 @@
 		],
 		[
 			"end process",
-			"bf-pixel",
+			"arch",
 			[
-				146,
-				113,
-				253
+				40,
+				40,
+				40
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"weekName": "Offline"
 }
