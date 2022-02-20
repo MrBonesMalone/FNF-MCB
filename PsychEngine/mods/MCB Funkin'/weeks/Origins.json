@@ -1,0 +1,49 @@
+{
+	"storyName": "Origins of mcb",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bad Omen",
+			"monster",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"disability",
+			"spirit-pixel",
+			[
+				86,
+				53,
+				253
+			]
+		],
+		[
+			"marrow",
+			"spooky",
+			[
+				175,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Origins"
+}
